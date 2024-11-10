@@ -124,9 +124,9 @@ def share_file_with_user(service, file_id, user_email):
         logging.error(f"Error sharing the file: {e}")
 
 if __name__ == "__main__":
-    folder_path = r"C:\Path\To\Backup\Folder"
-    credentials_path = r"C:\Path\To\Credentials\client.json"
-    user_email = "your-email@example.com"
+    folder_path = r""
+    credentials_path = r""
+    user_email = ""
     try:
         # First, delete existing .zip files
         delete_zip_files(credentials_path)
