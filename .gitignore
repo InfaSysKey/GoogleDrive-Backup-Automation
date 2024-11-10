@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Configuration files
+config.json
+client_secrets.json
+
+# Logs
+*.log
+
+# Virtual environments
+venv/

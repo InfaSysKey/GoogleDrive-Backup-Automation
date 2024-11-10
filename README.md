@@ -7,8 +7,3 @@ This project is a Python script to automate the upload of backup files to Google
 - Enabled Google Drive API
 - Service account credentials from Google
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/GoogleDrive-Backup-Automation.git
-
